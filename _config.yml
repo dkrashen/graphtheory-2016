@@ -1,0 +1,26 @@
+testing: true
+
+# Site settings
+# Course Info
+title: "Graph Theory"
+email: "&#100;&#107;&#114;&#97;&#115;&#104;&#101;&#110;&#64;&#117;&#103;&#97;&#46;&#101;&#100;&#117;&#13;&#10;&#13;&#10;"
+tagline: "UGA MATH/CS 4690/6690, Spring 2016."
+description: "Graphs: properties and algorithms."
+instructor: "Danny Krashen"
+instructor-email: "dkrashen@uga.edu"
+office: "Boyd 437"
+office-phone: "(706) 542-2555"
+office-hour: "Tu 2:00pm-3:00pm, Boyd 437"
+lecture-schedule: "TuTh 12:30pm - 1:45pm, Boyd 302"
+
+image_link: ""
+image_src: "http://upload.wikimedia.org/wikipedia/commons/4/4b/Ceraunus_Blue_%28Hemiargus_ceraunus%29_%287376863244%29.jpg"
+baseurl: "/graphtheory"
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

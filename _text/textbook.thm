@@ -1,0 +1,372 @@
+\contentsline {definition}{{Definition}{1}{}}{9}{definition.1}
+\contentsline {example}{{Example}{0.1.{1}}{}}{9}{example.0.1.1}
+\contentsline {warning}{{Warning}{1}{}}{10}{warning.1}
+\contentsline {example}{{Example}{0.1.{2}}{}}{10}{example.0.1.2}
+\contentsline {example}{{Example}{0.1.{3}}{}}{10}{example.0.1.3}
+\contentsline {example}{{Example}{0.1.{4}}{}}{11}{example.0.1.4}
+\contentsline {example}{{Example}{0.2.{1}}{}}{14}{example.0.2.1}
+\contentsline {solution}{{Solution}{1}{}}{14}{solution.1}
+\contentsline {example}{{Example}{0.2.{2}}{}}{14}{example.0.2.2}
+\contentsline {solution}{{Solution}{2}{}}{14}{solution.2}
+\contentsline {definition}{{Definition}{2}{}}{15}{definition.2}
+\contentsline {example}{{Example}{0.2.{3}}{}}{16}{example.0.2.3}
+\contentsline {solution}{{Solution}{3}{}}{16}{solution.3}
+\contentsline {example}{{Example}{0.2.{4}}{}}{16}{example.0.2.4}
+\contentsline {solution}{{Solution}{4}{}}{16}{solution.4}
+\contentsline {warning}{{Warning}{2}{}}{17}{warning.2}
+\contentsline {definition}{{Definition}{3}{}}{20}{definition.3}
+\contentsline {example}{{Example}{1.1.{1}}{}}{21}{example.1.1.1}
+\contentsline {solution}{{Solution}{5}{}}{21}{solution.5}
+\contentsline {example}{{Example}{1.1.{2}}{}}{22}{example.1.1.2}
+\contentsline {solution}{{Solution}{6}{}}{22}{solution.6}
+\contentsline {definition}{{Definition}{4}{}}{22}{definition.4}
+\contentsline {example}{{Example}{1.1.{3}}{}}{23}{example.1.1.3}
+\contentsline {solution}{{Solution}{7}{}}{23}{solution.7}
+\contentsline {example}{{Example}{1.2.{1}}{}}{26}{example.1.2.1}
+\contentsline {solution}{{Solution}{8}{}}{26}{solution.8}
+\contentsline {theorem}{{Theorem}{1.2.{2}}{Limit Product Law}}{27}{theorem.1.2.2}
+\contentsline {proof}{{Proof}{1}{}}{27}{proof.1}
+\contentsline {theorem}{{Theorem}{1.2.{3}}{Limit Composition Law}}{28}{theorem.1.2.3}
+\contentsline {warning}{{Warning}{3}{}}{29}{warning.3}
+\contentsline {theorem}{{Theorem}{1.2.{4}}{Limit Root Law}}{29}{theorem.1.2.4}
+\contentsline {mainTheorem}{{Theorem}{1.3.{1}}{Limit Laws}}{31}{mainTheorem.1.3.1}
+\contentsline {example}{{Example}{1.3.{2}}{}}{31}{example.1.3.2}
+\contentsline {solution}{{Solution}{9}{}}{32}{solution.9}
+\contentsline {example}{{Example}{1.3.{3}}{}}{32}{example.1.3.3}
+\contentsline {solution}{{Solution}{10}{}}{32}{solution.10}
+\contentsline {example}{{Example}{1.3.{4}}{}}{33}{example.1.3.4}
+\contentsline {solution}{{Solution}{11}{}}{33}{solution.11}
+\contentsline {mainTheorem}{{Theorem}{1.3.{5}}{Squeeze Theorem}}{33}{mainTheorem.1.3.5}
+\contentsline {example}{{Example}{1.3.{6}}{}}{33}{example.1.3.6}
+\contentsline {solution}{{Solution}{12}{}}{34}{solution.12}
+\contentsline {definition}{{Definition}{5}{}}{37}{definition.5}
+\contentsline {example}{{Example}{2.1.{1}}{}}{37}{example.2.1.1}
+\contentsline {solution}{{Solution}{13}{}}{37}{solution.13}
+\contentsline {definition}{{Definition}{6}{}}{38}{definition.6}
+\contentsline {example}{{Example}{2.1.{2}}{}}{38}{example.2.1.2}
+\contentsline {solution}{{Solution}{14}{}}{38}{solution.14}
+\contentsline {mainTheorem}{{Theorem}{2.1.{3}}{Intermediate Value Theorem}}{38}{mainTheorem.2.1.3}
+\contentsline {example}{{Example}{2.1.{4}}{}}{39}{example.2.1.4}
+\contentsline {solution}{{Solution}{15}{}}{39}{solution.15}
+\contentsline {example}{{Example}{2.1.{5}}{}}{39}{example.2.1.5}
+\contentsline {solution}{{Solution}{16}{}}{39}{solution.16}
+\contentsline {definition}{{Definition}{7}{}}{41}{definition.7}
+\contentsline {definition}{{Definition}{8}{}}{41}{definition.8}
+\contentsline {example}{{Example}{2.2.{1}}{}}{42}{example.2.2.1}
+\contentsline {solution}{{Solution}{17}{}}{42}{solution.17}
+\contentsline {definitionOfTheDerivative}{{Definition of the Derivative}{1}{}}{45}{definitionOfTheDerivative.1}
+\contentsline {definition}{{Definition}{9}{}}{46}{definition.9}
+\contentsline {example}{{Example}{3.1.{1}}{}}{46}{example.3.1.1}
+\contentsline {solution}{{Solution}{18}{}}{46}{solution.18}
+\contentsline {example}{{Example}{3.1.{2}}{}}{46}{example.3.1.2}
+\contentsline {solution}{{Solution}{19}{}}{47}{solution.19}
+\contentsline {mainTheorem}{{Theorem}{3.1.{3}}{Differentiability Implies Continuity}}{47}{mainTheorem.3.1.3}
+\contentsline {proof}{{Proof}{2}{}}{47}{proof.2}
+\contentsline {example}{{Example}{3.1.{4}}{}}{48}{example.3.1.4}
+\contentsline {solution}{{Solution}{20}{}}{48}{solution.20}
+\contentsline {mainTheorem}{{Theorem}{3.2.{1}}{The Constant Rule}}{53}{mainTheorem.3.2.1}
+\contentsline {proof}{{Proof}{3}{}}{53}{proof.3}
+\contentsline {mainTheorem}{{Theorem}{3.2.{2}}{The Power Rule}}{54}{mainTheorem.3.2.2}
+\contentsline {proof}{{Proof}{4}{}}{54}{proof.4}
+\contentsline {example}{{Example}{3.2.{3}}{}}{55}{example.3.2.3}
+\contentsline {solution}{{Solution}{21}{}}{55}{solution.21}
+\contentsline {example}{{Example}{3.2.{4}}{}}{55}{example.3.2.4}
+\contentsline {solution}{{Solution}{22}{}}{55}{solution.22}
+\contentsline {example}{{Example}{3.2.{5}}{}}{55}{example.3.2.5}
+\contentsline {solution}{{Solution}{23}{}}{55}{solution.23}
+\contentsline {mainTheorem}{{Theorem}{3.2.{6}}{The Sum Rule}}{56}{mainTheorem.3.2.6}
+\contentsline {proof}{{Proof}{5}{}}{56}{proof.5}
+\contentsline {example}{{Example}{3.2.{7}}{}}{56}{example.3.2.7}
+\contentsline {solution}{{Solution}{24}{}}{56}{solution.24}
+\contentsline {example}{{Example}{3.2.{8}}{}}{57}{example.3.2.8}
+\contentsline {solution}{{Solution}{25}{}}{57}{solution.25}
+\contentsline {definition}{{Definition}{10}{}}{58}{definition.10}
+\contentsline {mainTheorem}{{Theorem}{3.2.{9}}{The Derivative of $\textit {e}^\textit {x}$}}{58}{mainTheorem.3.2.9}
+\contentsline {proof}{{Proof}{6}{}}{59}{proof.6}
+\contentsline {example}{{Example}{3.2.{10}}{}}{59}{example.3.2.10}
+\contentsline {solution}{{Solution}{26}{}}{59}{solution.26}
+\contentsline {theorem}{{Theorem}{4.1.{1}}{The Derivative of sin(\textit {x})}}{62}{theorem.4.1.1}
+\contentsline {proof}{{Proof}{7}{}}{62}{proof.7}
+\contentsline {theorem}{{Theorem}{4.1.{2}}{The Derivative of cos(\textit {x})}}{64}{theorem.4.1.2}
+\contentsline {proof}{{Proof}{8}{}}{64}{proof.8}
+\contentsline {theorem}{{Theorem}{4.1.{3}}{The Derivative of tan(\textit {x})}}{65}{theorem.4.1.3}
+\contentsline {proof}{{Proof}{9}{}}{65}{proof.9}
+\contentsline {theorem}{{Theorem}{4.1.{4}}{The Derivative of sec(\textit {x})}}{65}{theorem.4.1.4}
+\contentsline {proof}{{Proof}{10}{}}{65}{proof.10}
+\contentsline {mainTheorem}{{Theorem}{4.1.{5}}{The Derivatives of Trigonometric Functions}}{66}{mainTheorem.4.1.5}
+\contentsline {warning}{{Warning}{4}{}}{66}{warning.4}
+\contentsline {theorem}{{Theorem}{4.2.{1}}{The Derivative of arcsin(\textit {y})}}{71}{theorem.4.2.1}
+\contentsline {proof}{{Proof}{11}{}}{71}{proof.11}
+\contentsline {theorem}{{Theorem}{4.2.{2}}{The Derivative of arccos(\textit {y})}}{72}{theorem.4.2.2}
+\contentsline {proof}{{Proof}{12}{}}{72}{proof.12}
+\contentsline {theorem}{{Theorem}{4.2.{3}}{The Derivative of arctan(\textit {y})}}{73}{theorem.4.2.3}
+\contentsline {proof}{{Proof}{13}{}}{73}{proof.13}
+\contentsline {mainTheorem}{{Theorem}{4.2.{4}}{The Derivatives of Inverse Trigonometric Functions}}{74}{mainTheorem.4.2.4}
+\contentsline {mainTheorem}{{Theorem}{5.1.{1}}{The Product Rule}}{77}{mainTheorem.5.1.1}
+\contentsline {proof}{{Proof}{14}{}}{77}{proof.14}
+\contentsline {example}{{Example}{5.1.{2}}{}}{77}{example.5.1.2}
+\contentsline {solution}{{Solution}{27}{}}{78}{solution.27}
+\contentsline {mainTheorem}{{Theorem}{5.2.{1}}{The Quotient Rule}}{80}{mainTheorem.5.2.1}
+\contentsline {proof}{{Proof}{15}{}}{80}{proof.15}
+\contentsline {example}{{Example}{5.2.{2}}{}}{81}{example.5.2.2}
+\contentsline {solution}{{Solution}{28}{}}{81}{solution.28}
+\contentsline {example}{{Example}{5.2.{3}}{}}{81}{example.5.2.3}
+\contentsline {solution}{{Solution}{29}{}}{81}{solution.29}
+\contentsline {mainTheorem}{{Theorem}{6.1.{1}}{Chain Rule}}{84}{mainTheorem.6.1.1}
+\contentsline {proof}{{Proof}{16}{}}{84}{proof.16}
+\contentsline {example}{{Example}{6.1.{2}}{}}{87}{example.6.1.2}
+\contentsline {solution}{{Solution}{30}{}}{87}{solution.30}
+\contentsline {example}{{Example}{6.1.{3}}{}}{87}{example.6.1.3}
+\contentsline {solution}{{Solution}{31}{}}{87}{solution.31}
+\contentsline {example}{{Example}{6.1.{4}}{}}{88}{example.6.1.4}
+\contentsline {solution}{{Solution}{32}{}}{88}{solution.32}
+\contentsline {example}{{Example}{6.2.{1}}{}}{91}{example.6.2.1}
+\contentsline {solution}{{Solution}{33}{}}{91}{solution.33}
+\contentsline {mainTheorem}{{Theorem}{6.2.{2}}{The Derivative of the Natural Logrithm}}{93}{mainTheorem.6.2.2}
+\contentsline {proof}{{Proof}{17}{}}{93}{proof.17}
+\contentsline {mainTheorem}{{Theorem}{6.2.{3}}{Inverse Function Theorem}}{94}{mainTheorem.6.2.3}
+\contentsline {example}{{Example}{6.3.{1}}{}}{97}{example.6.3.1}
+\contentsline {solution}{{Solution}{34}{}}{97}{solution.34}
+\contentsline {example}{{Example}{6.3.{2}}{}}{98}{example.6.3.2}
+\contentsline {solution}{{Solution}{35}{}}{98}{solution.35}
+\contentsline {theorem}{{Theorem}{6.3.{3}}{Power Rule}}{99}{theorem.6.3.3}
+\contentsline {proof}{{Proof}{18}{}}{99}{proof.18}
+\contentsline {definition}{{Definition}{11}{}}{101}{definition.11}
+\contentsline {example}{{Example}{7.1.{1}}{}}{101}{example.7.1.1}
+\contentsline {solution}{{Solution}{36}{}}{101}{solution.36}
+\contentsline {definition}{{Definition}{12}{}}{102}{definition.12}
+\contentsline {example}{{Example}{7.1.{2}}{}}{102}{example.7.1.2}
+\contentsline {solution}{{Solution}{37}{}}{102}{solution.37}
+\contentsline {example}{{Example}{7.1.{3}}{}}{103}{example.7.1.3}
+\contentsline {solution}{{Solution}{38}{}}{103}{solution.38}
+\contentsline {example}{{Example}{7.1.{4}}{}}{104}{example.7.1.4}
+\contentsline {solution}{{Solution}{39}{}}{104}{solution.39}
+\contentsline {guidelinesForRelatedRates}{{Guidelines for Related Rates Problems}{1}{}}{107}{guidelinesForRelatedRates.1}
+\contentsline {example}{{Example}{7.2.{1}}{}}{107}{example.7.2.1}
+\contentsline {solution}{{Solution}{40}{}}{107}{solution.40}
+\contentsline {example}{{Example}{7.2.{2}}{}}{108}{example.7.2.2}
+\contentsline {solution}{{Solution}{41}{}}{108}{solution.41}
+\contentsline {example}{{Example}{7.2.{3}}{}}{109}{example.7.2.3}
+\contentsline {solution}{{Solution}{42}{}}{109}{solution.42}
+\contentsline {example}{{Example}{7.2.{4}}{}}{111}{example.7.2.4}
+\contentsline {solution}{{Solution}{43}{}}{111}{solution.43}
+\contentsline {example}{{Example}{7.2.{5}}{}}{112}{example.7.2.5}
+\contentsline {solution}{{Solution}{44}{}}{112}{solution.44}
+\contentsline {definition}{{Definition}{13}{}}{117}{definition.13}
+\contentsline {mainTheorem}{{Theorem}{8.1.{1}}{Fermat's Theorem}}{118}{mainTheorem.8.1.1}
+\contentsline {definition}{{Definition}{14}{}}{118}{definition.14}
+\contentsline {warning}{{Warning}{5}{}}{118}{warning.5}
+\contentsline {example}{{Example}{8.1.{2}}{}}{119}{example.8.1.2}
+\contentsline {solution}{{Solution}{45}{}}{119}{solution.45}
+\contentsline {mainTheorem}{{Theorem}{8.2.{1}}{First Derivative Test}}{121}{mainTheorem.8.2.1}
+\contentsline {example}{{Example}{8.2.{2}}{}}{121}{example.8.2.2}
+\contentsline {solution}{{Solution}{46}{}}{121}{solution.46}
+\contentsline {mainTheorem}{{Theorem}{8.3.{1}}{Test for Concavity}}{125}{mainTheorem.8.3.1}
+\contentsline {definition}{{Definition}{15}{}}{125}{definition.15}
+\contentsline {warning}{{Warning}{6}{}}{125}{warning.6}
+\contentsline {example}{{Example}{8.3.{2}}{}}{126}{example.8.3.2}
+\contentsline {solution}{{Solution}{47}{}}{126}{solution.47}
+\contentsline {mainTheorem}{{Theorem}{8.4.{1}}{Second Derivative Test}}{128}{mainTheorem.8.4.1}
+\contentsline {example}{{Example}{8.4.{2}}{}}{129}{example.8.4.2}
+\contentsline {solution}{{Solution}{48}{}}{129}{solution.48}
+\contentsline {warning}{{Warning}{7}{}}{129}{warning.7}
+\contentsline {procedureForPlotting}{{Procedure for Sketching the Plots of Functions}{1}{}}{131}{procedureForPlotting.1}
+\contentsline {definition}{{Definition}{16}{}}{135}{definition.16}
+\contentsline {example}{{Example}{9.1.{1}}{}}{135}{example.9.1.1}
+\contentsline {solution}{{Solution}{49}{}}{136}{solution.49}
+\contentsline {example}{{Example}{9.1.{2}}{}}{136}{example.9.1.2}
+\contentsline {solution}{{Solution}{50}{}}{136}{solution.50}
+\contentsline {example}{{Example}{9.1.{3}}{}}{136}{example.9.1.3}
+\contentsline {solution}{{Solution}{51}{}}{136}{solution.51}
+\contentsline {definition}{{Definition}{17}{}}{137}{definition.17}
+\contentsline {example}{{Example}{9.1.{4}}{}}{137}{example.9.1.4}
+\contentsline {solution}{{Solution}{52}{}}{137}{solution.52}
+\contentsline {example}{{Example}{9.1.{5}}{}}{137}{example.9.1.5}
+\contentsline {solution}{{Solution}{53}{}}{137}{solution.53}
+\contentsline {example}{{Example}{9.1.{6}}{}}{138}{example.9.1.6}
+\contentsline {solution}{{Solution}{54}{}}{138}{solution.54}
+\contentsline {definition}{{Definition}{18}{}}{140}{definition.18}
+\contentsline {example}{{Example}{9.2.{1}}{}}{140}{example.9.2.1}
+\contentsline {solution}{{Solution}{55}{}}{140}{solution.55}
+\contentsline {example}{{Example}{9.2.{2}}{}}{141}{example.9.2.2}
+\contentsline {solution}{{Solution}{56}{}}{141}{solution.56}
+\contentsline {example}{{Example}{9.2.{3}}{}}{141}{example.9.2.3}
+\contentsline {solution}{{Solution}{57}{}}{141}{solution.57}
+\contentsline {definition}{{Definition}{19}{}}{141}{definition.19}
+\contentsline {example}{{Example}{9.2.{4}}{}}{142}{example.9.2.4}
+\contentsline {solution}{{Solution}{58}{}}{142}{solution.58}
+\contentsline {example}{{Example}{9.2.{5}}{}}{142}{example.9.2.5}
+\contentsline {solution}{{Solution}{59}{}}{142}{solution.59}
+\contentsline {example}{{Example}{9.2.{6}}{}}{142}{example.9.2.6}
+\contentsline {solution}{{Solution}{60}{}}{142}{solution.60}
+\contentsline {mainTheorem}{{Theorem}{9.3.{1}}{L'H\^opital's Rule}}{144}{mainTheorem.9.3.1}
+\contentsline {definition}{{Definition}{20}{List of Indeterminate Forms}}{145}{definition.20}
+\contentsline {example}{{Example}{9.3.{2}}{0/0}}{145}{example.9.3.2}
+\contentsline {solution}{{Solution}{61}{}}{146}{solution.61}
+\contentsline {example}{{Example}{9.3.{3}}{$\pmb \infty $/$\pmb \infty $}}{146}{example.9.3.3}
+\contentsline {solution}{{Solution}{62}{}}{146}{solution.62}
+\contentsline {example}{{Example}{9.3.{4}}{0\,$\pmb {\cdot \infty }$}}{147}{example.9.3.4}
+\contentsline {solution}{{Solution}{63}{}}{147}{solution.63}
+\contentsline {example}{{Example}{9.3.{5}}{$\pmb \infty $--$\pmb \infty $}}{147}{example.9.3.5}
+\contentsline {solution}{{Solution}{64}{}}{148}{solution.64}
+\contentsline {example}{{Example}{9.3.{6}}{$\pmb \infty $--$\pmb \infty $}}{148}{example.9.3.6}
+\contentsline {solution}{{Solution}{65}{}}{148}{solution.65}
+\contentsline {example}{{Example}{9.3.{7}}{1$^{\pmb \infty }$}}{149}{example.9.3.7}
+\contentsline {solution}{{Solution}{66}{}}{150}{solution.66}
+\contentsline {definition}{{Definition}{21}{}}{153}{definition.21}
+\contentsline {mainTheorem}{{Theorem}{10.1.{1}}{Extreme Value Theorem}}{154}{mainTheorem.10.1.1}
+\contentsline {example}{{Example}{10.1.{2}}{}}{154}{example.10.1.2}
+\contentsline {solution}{{Solution}{67}{}}{154}{solution.67}
+\contentsline {example}{{Example}{10.1.{3}}{}}{154}{example.10.1.3}
+\contentsline {solution}{{Solution}{68}{}}{154}{solution.68}
+\contentsline {warning}{{Warning}{8}{}}{155}{warning.8}
+\contentsline {guidelinesForOptimization}{{Guidelines for Optimization}{1}{}}{157}{guidelinesForOptimization.1}
+\contentsline {example}{{Example}{10.2.{1}}{}}{157}{example.10.2.1}
+\contentsline {solution}{{Solution}{69}{}}{157}{solution.69}
+\contentsline {example}{{Example}{10.2.{2}}{}}{158}{example.10.2.2}
+\contentsline {solution}{{Solution}{70}{}}{158}{solution.70}
+\contentsline {example}{{Example}{10.2.{3}}{}}{159}{example.10.2.3}
+\contentsline {solution}{{Solution}{71}{}}{159}{solution.71}
+\contentsline {example}{{Example}{10.2.{4}}{}}{160}{example.10.2.4}
+\contentsline {solution}{{Solution}{72}{}}{160}{solution.72}
+\contentsline {example}{{Example}{10.2.{5}}{}}{161}{example.10.2.5}
+\contentsline {solution}{{Solution}{73}{}}{161}{solution.73}
+\contentsline {example}{{Example}{10.2.{6}}{}}{162}{example.10.2.6}
+\contentsline {solution}{{Solution}{74}{}}{162}{solution.74}
+\contentsline {definition}{{Definition}{22}{}}{168}{definition.22}
+\contentsline {example}{{Example}{11.1.{1}}{}}{168}{example.11.1.1}
+\contentsline {solution}{{Solution}{75}{}}{168}{solution.75}
+\contentsline {example}{{Example}{11.1.{2}}{}}{169}{example.11.1.2}
+\contentsline {solution}{{Solution}{76}{}}{169}{solution.76}
+\contentsline {definition}{{Definition}{23}{}}{170}{definition.23}
+\contentsline {example}{{Example}{11.1.{3}}{}}{171}{example.11.1.3}
+\contentsline {solution}{{Solution}{77}{}}{171}{solution.77}
+\contentsline {example}{{Example}{11.1.{4}}{}}{171}{example.11.1.4}
+\contentsline {solution}{{Solution}{78}{}}{171}{solution.78}
+\contentsline {newtonsMethod}{{Newton's Method}{1}{}}{173}{newtonsMethod.1}
+\contentsline {example}{{Example}{11.2.{1}}{}}{174}{example.11.2.1}
+\contentsline {solution}{{Solution}{79}{}}{175}{solution.79}
+\contentsline {example}{{Example}{11.2.{2}}{}}{175}{example.11.2.2}
+\contentsline {solution}{{Solution}{80}{}}{175}{solution.80}
+\contentsline {warning}{{Warning}{9}{}}{176}{warning.9}
+\contentsline {definition}{{Definition}{24}{}}{177}{definition.24}
+\contentsline {definition}{{Definition}{25}{}}{177}{definition.25}
+\contentsline {mainTheorem}{{Theorem}{12.1.{1}}{Basic Antiderivatives}}{178}{mainTheorem.12.1.1}
+\contentsline {mainTheorem}{{Theorem}{12.1.{2}}{The Sum Rule for Antiderivatives}}{178}{mainTheorem.12.1.2}
+\contentsline {example}{{Example}{12.1.{3}}{}}{179}{example.12.1.3}
+\contentsline {solution}{{Solution}{81}{}}{179}{solution.81}
+\contentsline {example}{{Example}{12.1.{4}}{}}{179}{example.12.1.4}
+\contentsline {solution}{{Solution}{82}{}}{179}{solution.82}
+\contentsline {warning}{{Warning}{10}{}}{179}{warning.10}
+\contentsline {guessingAntiderivatives}{{How to Guess Antiderivatives}{1}{}}{180}{guessingAntiderivatives.1}
+\contentsline {template}{{Template}{12.1.{5}}{}}{180}{template.12.1.5}
+\contentsline {example}{{Example}{12.1.{6}}{}}{180}{example.12.1.6}
+\contentsline {solution}{{Solution}{83}{}}{180}{solution.83}
+\contentsline {template}{{Template}{12.1.{7}}{}}{181}{template.12.1.7}
+\contentsline {example}{{Example}{12.1.{8}}{}}{181}{example.12.1.8}
+\contentsline {solution}{{Solution}{84}{}}{181}{solution.84}
+\contentsline {template}{{Template}{12.1.{9}}{}}{182}{template.12.1.9}
+\contentsline {example}{{Example}{12.1.{10}}{}}{182}{example.12.1.10}
+\contentsline {solution}{{Solution}{85}{}}{182}{solution.85}
+\contentsline {template}{{Template}{12.1.{11}}{}}{182}{template.12.1.11}
+\contentsline {example}{{Example}{12.1.{12}}{}}{183}{example.12.1.12}
+\contentsline {solution}{{Solution}{86}{}}{183}{solution.86}
+\contentsline {mainTheorem}{{Theorem}{12.2.{1}}{Rolle's Theorem}}{186}{mainTheorem.12.2.1}
+\contentsline {proof}{{Proof}{19}{}}{186}{proof.19}
+\contentsline {example}{{Example}{12.2.{2}}{}}{187}{example.12.2.2}
+\contentsline {solution}{{Solution}{87}{}}{187}{solution.87}
+\contentsline {mainTheorem}{{Theorem}{12.2.{3}}{Mean Value Theorem}}{187}{mainTheorem.12.2.3}
+\contentsline {proof}{{Proof}{20}{}}{187}{proof.20}
+\contentsline {example}{{Example}{12.2.{4}}{}}{188}{example.12.2.4}
+\contentsline {solution}{{Solution}{88}{}}{188}{solution.88}
+\contentsline {theorem}{{Theorem}{12.2.{5}}{}}{188}{theorem.12.2.5}
+\contentsline {proof}{{Proof}{21}{}}{188}{proof.21}
+\contentsline {example}{{Example}{12.2.{6}}{}}{189}{example.12.2.6}
+\contentsline {solution}{{Solution}{89}{}}{189}{solution.89}
+\contentsline {example}{{Example}{12.2.{7}}{}}{189}{example.12.2.7}
+\contentsline {solution}{{Solution}{90}{}}{189}{solution.90}
+\contentsline {example}{{Example}{12.3.{1}}{}}{191}{example.12.3.1}
+\contentsline {solution}{{Solution}{91}{}}{191}{solution.91}
+\contentsline {example}{{Example}{12.3.{2}}{}}{192}{example.12.3.2}
+\contentsline {solution}{{Solution}{92}{}}{192}{solution.92}
+\contentsline {example}{{Example}{12.3.{3}}{}}{193}{example.12.3.3}
+\contentsline {solution}{{Solution}{93}{}}{194}{solution.93}
+\contentsline {example}{{Example}{12.3.{4}}{}}{195}{example.12.3.4}
+\contentsline {solution}{{Solution}{94}{}}{195}{solution.94}
+\contentsline {example}{{Example}{12.3.{5}}{}}{196}{example.12.3.5}
+\contentsline {solution}{{Solution}{95}{}}{197}{solution.95}
+\contentsline {example}{{Example}{12.3.{6}}{}}{197}{example.12.3.6}
+\contentsline {solution}{{Solution}{96}{}}{197}{solution.96}
+\contentsline {example}{{Example}{12.3.{7}}{}}{197}{example.12.3.7}
+\contentsline {solution}{{Solution}{97}{}}{198}{solution.97}
+\contentsline {procedureForConstructingASlopeField}{{Procedure for Constructing a Slope Field}{1}{}}{198}{procedureForConstructingASlopeField.1}
+\contentsline {definition}{{Definition}{26}{}}{201}{definition.26}
+\contentsline {example}{{Example}{13.1.{1}}{}}{201}{example.13.1.1}
+\contentsline {solution}{{Solution}{98}{}}{201}{solution.98}
+\contentsline {example}{{Example}{13.1.{2}}{}}{202}{example.13.1.2}
+\contentsline {solution}{{Solution}{99}{}}{202}{solution.99}
+\contentsline {mainTheorem}{{Theorem}{13.1.{3}}{Properties of Definite Integrals}}{202}{mainTheorem.13.1.3}
+\contentsline {definition}{{Definition}{27}{}}{203}{definition.27}
+\contentsline {example}{{Example}{13.1.{4}}{}}{204}{example.13.1.4}
+\contentsline {solution}{{Solution}{100}{}}{204}{solution.100}
+\contentsline {example}{{Example}{13.1.{5}}{}}{204}{example.13.1.5}
+\contentsline {solution}{{Solution}{101}{}}{204}{solution.101}
+\contentsline {definition}{{Definition}{28}{}}{208}{definition.28}
+\contentsline {definition}{{Definition}{29}{}}{208}{definition.29}
+\contentsline {example}{{Example}{13.2.{1}}{}}{209}{example.13.2.1}
+\contentsline {solution}{{Solution}{102}{}}{209}{solution.102}
+\contentsline {example}{{Example}{13.2.{2}}{}}{209}{example.13.2.2}
+\contentsline {solution}{{Solution}{103}{}}{209}{solution.103}
+\contentsline {mainTheorem}{{Theorem}{14.1.{1}}{Fundamental Theorem of Calculus---Version I}}{213}{mainTheorem.14.1.1}
+\contentsline {proof}{{Proof}{22}{}}{214}{proof.22}
+\contentsline {mainTheorem}{{Theorem}{14.1.{2}}{Fundamental Theorem of Calculus---Version II}}{215}{mainTheorem.14.1.2}
+\contentsline {proof}{{Proof}{23}{}}{215}{proof.23}
+\contentsline {example}{{Example}{14.1.{3}}{}}{216}{example.14.1.3}
+\contentsline {solution}{{Solution}{104}{}}{216}{solution.104}
+\contentsline {example}{{Example}{14.1.{4}}{}}{217}{example.14.1.4}
+\contentsline {solution}{{Solution}{105}{}}{218}{solution.105}
+\contentsline {example}{{Example}{14.2.{1}}{}}{220}{example.14.2.1}
+\contentsline {solution}{{Solution}{106}{}}{220}{solution.106}
+\contentsline {example}{{Example}{14.2.{2}}{}}{221}{example.14.2.2}
+\contentsline {solution}{{Solution}{107}{}}{221}{solution.107}
+\contentsline {example}{{Example}{14.2.{3}}{}}{221}{example.14.2.3}
+\contentsline {solution}{{Solution}{108}{}}{221}{solution.108}
+\contentsline {mainTheorem}{{Theorem}{15.1.{1}}{Integral Substitution Formula}}{224}{mainTheorem.15.1.1}
+\contentsline {proof}{{Proof}{24}{}}{224}{proof.24}
+\contentsline {example}{{Example}{15.1.{2}}{}}{225}{example.15.1.2}
+\contentsline {solution}{{Solution}{109}{}}{225}{solution.109}
+\contentsline {example}{{Example}{15.1.{3}}{}}{226}{example.15.1.3}
+\contentsline {solution}{{Solution}{110}{}}{226}{solution.110}
+\contentsline {example}{{Example}{15.1.{4}}{}}{226}{example.15.1.4}
+\contentsline {solution}{{Solution}{111}{}}{226}{solution.111}
+\contentsline {example}{{Example}{15.1.{5}}{}}{227}{example.15.1.5}
+\contentsline {solution}{{Solution}{112}{}}{227}{solution.112}
+\contentsline {example}{{Example}{15.1.{6}}{}}{227}{example.15.1.6}
+\contentsline {solution}{{Solution}{113}{}}{227}{solution.113}
+\contentsline {example}{{Example}{15.1.{7}}{}}{228}{example.15.1.7}
+\contentsline {solution}{{Solution}{114}{}}{228}{solution.114}
+\contentsline {example}{{Example}{15.2.{1}}{}}{231}{example.15.2.1}
+\contentsline {solution}{{Solution}{115}{}}{231}{solution.115}
+\contentsline {example}{{Example}{15.2.{2}}{}}{231}{example.15.2.2}
+\contentsline {solution}{{Solution}{116}{}}{232}{solution.116}
+\contentsline {example}{{Example}{15.2.{3}}{}}{233}{example.15.2.3}
+\contentsline {solution}{{Solution}{117}{}}{233}{solution.117}
+\contentsline {mainTheorem}{{Theorem}{15.3.{1}}{Integration by Parts Formula}}{235}{mainTheorem.15.3.1}
+\contentsline {proof}{{Proof}{25}{}}{235}{proof.25}
+\contentsline {example}{{Example}{15.3.{2}}{}}{236}{example.15.3.2}
+\contentsline {solution}{{Solution}{118}{}}{236}{solution.118}
+\contentsline {example}{{Example}{15.3.{3}}{}}{236}{example.15.3.3}
+\contentsline {solution}{{Solution}{119}{}}{236}{solution.119}
+\contentsline {example}{{Example}{15.3.{4}}{}}{236}{example.15.3.4}
+\contentsline {solution}{{Solution}{120}{}}{237}{solution.120}
+\contentsline {example}{{Example}{16.1.{1}}{}}{240}{example.16.1.1}
+\contentsline {solution}{{Solution}{121}{}}{240}{solution.121}
+\contentsline {example}{{Example}{16.1.{2}}{}}{241}{example.16.1.2}
+\contentsline {solution}{{Solution}{122}{}}{241}{solution.122}
+\contentsline {example}{{Example}{16.1.{3}}{}}{242}{example.16.1.3}
+\contentsline {solution}{{Solution}{123}{}}{242}{solution.123}
+\contentsline {example}{{Example}{16.1.{4}}{}}{243}{example.16.1.4}
+\contentsline {solution}{{Solution}{124}{}}{243}{solution.124}
+\contentsline {example}{{Example}{16.1.{5}}{}}{245}{example.16.1.5}
+\contentsline {solution}{{Solution}{125}{}}{245}{solution.125}
+\contentsline {example}{{Example}{16.2.{1}}{}}{248}{example.16.2.1}
