@@ -20,16 +20,23 @@ lecture-schedule: "TuTh 12:30pm-1:45pm, Boyd 302"
  - **Email**:  [{{ site.instructor-email }}](mailto://{{ site.instructor-email }})
  - **Course Website**: [http://dkrashen.github.io/graphtheory](http://dkrashen.github.io/graphtheory)
 
-###Course Topics###
+###Topical Outline###
 
- - Definitions of graphs, digraphs, multigraphs, pseudographs, and their basic properties
- - degree formula, walks, paths, connectedness
- - trees, spanning trees, algorithms
- - circuits, tours, Eulerian tours and circuits, cycles, Hamiltonian cycles
- - Dijkstra's algorithm, traveling salesman problem
- - matchings, coverings, scheduling and matching problems and algorithms
- - more connectedness, edge and vertex cuts
- - colorings, chromatic numbers, Vizing's theorem
+ - definitions of graphs, digraphs, isomorphisms, degree formula
+ - subgraphs, unions, intersections
+ - examples, proof writing, Ramsey numbers
+ - spanning subgraphs
+ - graph decompositions, bonds, edge cuts
+ - walks, cut edges, eulerian tours
+ - Fleury\'s algorithm
+ - trees and algorithms
+ - cut vertices and blocks
+ - computational complexity theory
+ - planar graphs, 4 color theorem
+ - Ramsey theory
+ - chromatic numbers and polynomials
+ - matchings, marraige problem
+ - edge coloring, scheduling problems, Vizing\'s theorem
  - current research problems in graph theory
 
 ###Grading, exams and homework###

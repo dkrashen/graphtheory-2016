@@ -1,7 +1,3 @@
-<div class="col-md-6"> <!-- left -->
-<div class="row well"> <!-- inner row well 1 (left) -->
-  <h3> <center>What's New </center></h3>
-</div>
   <ul class="posts list-unstyled">
     {% for post in site.posts limit:5 %}
 <div class="row well"> <!-- inner row well 1 (left) -->
@@ -15,11 +11,6 @@
 </div> <!-- /inner row well 1 (left) -->
     {% endfor %}
   </ul>
-<div class="row well"> <!-- inner row well 2 (left) -->
-  <p class="rss-subscribe">
-    subscribe to the class newsfeed
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.
-</div> <!-- /inner row well 2 (left) -->
 
 {% for post in site.posts offset:1 limit:1 %}
 {% comment %} i.e. if not empty then do... {% endcomment %}
@@ -35,4 +26,3 @@
   </ul>
 </div> <!-- /inner row well 3 (left) -->
 {% endfor %}
-</div> <!-- /left-->
