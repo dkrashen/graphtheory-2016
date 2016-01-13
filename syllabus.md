@@ -19,6 +19,11 @@ lecture-schedule: "TuTh 12:30pm-1:45pm, Boyd 302"
  - **Office Phone**: {{ site.office-phone }}
  - **Email**:  [{{ site.instructor-email }}](mailto://{{ site.instructor-email }})
  - **Course Website**: [http://dkrashen.github.io/graphtheory](http://dkrashen.github.io/graphtheory)
+ 
+###Textbooks###
+
+ - Suggested Text (not required): **Graph Theory**, by Bondy and Murty. <br />Available via [Springer](http://www.springer.com/us/book/9781846289699), [Amazon](http://www.amazon.com/Graph-Theory-Applications-Adrian-Bondy/dp/0444194517), [UGA Library](http://gilfind.uga.edu/vufind/Record/3405814).
+ - Supplimentary Reading (not required): **Pearls in Graph Theory**, by Hartsfield and Ringel. <br />Available via [Amazon](http://www.amazon.com/Pearls-Graph-Theory-Comprehensive-Introduction/dp/0486432327), [Google (ebook)](https://books.google.com/books/about/Pearls_in_Graph_Theory.html?id=R6pq0fbQG0QC), [MAA](http://www.maa.org/press/maa-reviews/pearls-in-graph-theory-a-comprehensive-introduction).
 
 ###Topical Outline###
 
