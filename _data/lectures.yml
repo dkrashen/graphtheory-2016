@@ -1,3 +1,6 @@
 - title: "Lecture 1"
   filename: "lecture1.pdf"
   description: "What is a graph?"
+- title: "Lecture 2"
+  filename: "lecture2.pdf"
+  description: "Digraphs and degrees"
