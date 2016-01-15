@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% for h in site.data.homework %}
+<div class="row well well-sm">
+	<div class="col-md-9">
+	  <b>{{h.title}}</b>: {{h.description}}
+	</div>
+	<div class="col-md-3">
+		<a href="{{ h.filename }}"><button type="button" 
+    class="btn btn-lnk btn-spaced">pdf</button></a>
+	</div>
+</div>
+{% endfor %}
+
+
