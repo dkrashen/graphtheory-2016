@@ -10,3 +10,6 @@
 - title: "Lecture 4"
   filename: "lecture4.pdf"
   description: "Walks, components, connectedness"
+- title: "Lecture 5"
+  filename: "lecture5.pdf"
+  description: "Trees and Dijkstra's algorithm, part 1"
