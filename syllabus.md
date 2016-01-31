@@ -29,12 +29,12 @@ lecture-schedule: "TuTh 12:30pm-1:45pm, Boyd 302"
 
  - definitions of graphs, digraphs, isomorphisms, degree formula
  - subgraphs, unions, intersections
- - examples, proof writing, Ramsey numbers
+ - examples, proof writing
  - spanning subgraphs
+ - trees and algorithms
  - graph decompositions, bonds, edge cuts
  - walks, cut edges, eulerian tours
  - Fleury\'s algorithm
- - trees and algorithms
  - cut vertices and blocks
  - computational complexity theory
  - planar graphs, 4 color theorem
