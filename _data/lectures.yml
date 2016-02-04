@@ -22,3 +22,6 @@
 - title: "Lecture 6"
   filename: "lecture6.pdf"
   description: "Trees and Dijkstra's algorithm, part 1"
+- title: "Lecture 7"
+  filename: "lecture7.pdf"
+  description: "Dijkstra's algorithm, part 2; Bonds, part 1"
