@@ -25,3 +25,6 @@
 - title: "Lecture 7"
   filename: "lecture7.pdf"
   description: "Dijkstra's algorithm, part 2; Bonds, part 1"
+- title: "Lecture 8"
+  filename: "lecture8.pdf"
+  description: "Cuts and connectivity"
