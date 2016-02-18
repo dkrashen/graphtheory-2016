@@ -37,3 +37,6 @@
 - title: "Lecture 11"
   filename: "lecture11.pdf"
   description: "Connectivity, final part (a)"
+- title: "Lecture 12"
+  filename: "lecture12.pdf"
+  description: "Connectivity, final part (b). Eulerian circuits"
