@@ -20,6 +20,8 @@ baseurl: "/graphtheory"
 # url: "localhost:4000"
 # url: "http://math.dkrashen.org"
 
+analytics_id: "UA-74503807-1"
+analytics: "true"
 
 # Build settings
 markdown: kramdown
