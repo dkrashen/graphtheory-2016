@@ -43,3 +43,6 @@
 - title: "Lecture 13"
   filename: "lecture13.pdf"
   description: "Eulerian circuits, Hamiltonian cycles"
+- title: "Lecture 14"
+  filename: "lecture14.pdf"
+  description: "Vertex Colorings"
