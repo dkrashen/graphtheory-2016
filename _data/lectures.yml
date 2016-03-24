@@ -52,3 +52,6 @@
 - title: "Lecture 16"
   filename: "lecture16.pdf"
   description: "Vizing's Theorem"
+- title: "Lecture 17"
+  filename: "lecture17.pdf"
+  description: "Edge coloring addendum, matchings"
