@@ -18,7 +18,7 @@ image_src: "http://upload.wikimedia.org/wikipedia/commons/4/4b/Ceraunus_Blue_%28
 baseurl: "/graphtheory"
 
 # url: "localhost:4000"
-url: "http://dkrashen.org/graphtheory"
+url: "http://dkrashen.org"
 
 analytics_id: "UA-74503807-1"
 analytics: "true"
