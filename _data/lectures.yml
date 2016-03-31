@@ -55,3 +55,6 @@
 - title: "Lecture 17"
   filename: "lecture17.pdf"
   description: "Edge coloring addendum, matchings"
+- title: "Lecture 18"
+  filename: "lecture18.pdf"
+  description: "Matchings in bipartite graphs"
