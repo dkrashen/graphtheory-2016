@@ -58,3 +58,6 @@
 - title: "Lecture 18"
   filename: "lecture18.pdf"
   description: "Matchings in bipartite graphs"
+- title: "Lecture 19"
+  filename: "lecture19.pdf"
+  description: "Flows and cuts"
